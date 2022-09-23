@@ -1,0 +1,8 @@
+{
+    "Prestamistas": [
+        {"id":1, "nombre" : "PrestamoYa"},
+        {"id":2, "nombre" : "Presto"},
+        {"id":3, "nombre" : "PrestamosFlash"}, 
+        {"id":4, "nombre" : "PrestamosCash"}
+    ]
+}
